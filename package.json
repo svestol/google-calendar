@@ -1,0 +1,22 @@
+{
+  "name": "google-calendar",
+  "version": "0.1.0",
+  "description": "Electon Google Clanedar",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svestol/google-calendar.git"
+  },
+  "author": "sves",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/svestol/google-calendar/issues"
+  },
+  "homepage": "https://github.com/svestol/google-calendar#readme",
+  "devDependencies": {
+    "electron": "^2.0.3"
+  }
+}
