@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/svestol/google-calendar#readme",
   "devDependencies": {
-    "electron": "^2.0.3"
+    "electron": "^3.0.6"
   }
 }
